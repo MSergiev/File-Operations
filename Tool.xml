@@ -1,0 +1,32 @@
+<Tools>
+	<Tool ID="1">
+		<Name>Hammer</Name>
+		<Price>5.99</Price>
+		<Amount>100</Amount>
+	</Tool>
+	<Tool ID="2">
+		<Name>Screwdriver</Name>
+		<Price>2.50</Price>
+		<Amount>300</Amount>
+	</Tool>
+	<Tool ID="3">
+		<Name>File</Name>
+		<Price>3.75</Price>
+		<Amount>50</Amount>
+	</Tool>
+	<Tool ID="4">
+		<Name>Brush</Name>
+		<Price>1.99</Price>
+		<Amount>500</Amount>
+	</Tool>
+	<Tool ID="5">
+		<Name>Pliers</Name>
+		<Price>2.00</Price>
+		<Amount>150</Amount>
+	</Tool>
+	<Tool ID="6">
+		<Name>Saw</Name>
+		<Price>2.50</Price>
+		<Amount>75</Amount>
+	</Tool>
+</Tools>
